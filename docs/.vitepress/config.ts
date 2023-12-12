@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Dialoqbase",
+  title: "Dialogo",
   description: "Create chatbots with ease",
   lastUpdated: true,
   head: [
